@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Terminal</title>
+    <link>/posts/</link>
+    <description>Recent content in Posts on Terminal</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 18 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Starting my Website Journey</title>
+      <link>/posts/starting-my-website-journey/</link>
+      <pubDate>Fri, 18 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>/posts/starting-my-website-journey/</guid>
+      <description>&lt;p&gt;Step One:&#xA;Get a website&#xA;GamerLatte.com&#xA;Used GoDaddy to get the domain&#xA;Used Github Pages to create the initial page&#xA;The first page (the Root of the site) MUST be named index.html.&lt;/p&gt;&#xA;&lt;p&gt;Step Two:&#xA;Install Obsidian&#xA;Gonna use this to make the blog content&#xA;Learn how to use Markdown Language&lt;/p&gt;&#xA;&lt;p&gt;Step Three:&#xA;Forget to install Hugo&#xA;Install Hugo&#xA;Observe the pretty website that&amp;rsquo;s locally hosted&#xA;Test Image:&#xA;!&lt;img src=&#34;/images/Pasted%20image%2020250418152455.png&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Step Four:&#xA;Sync the attachments&#xA;Figure out why the attachments aren&amp;rsquo;t syncing&#xA;Ask GPT about it&#xA;GPT has suggestions for improvements that are ultimately not helpful&#xA;Bang head on wall&amp;hellip;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
